@@ -155,22 +155,22 @@ export interface ProfileConfig {
 // Default configuration - Users can override any of these values
 export const profileConfig: ProfileConfig = {
   profile: {
-    name: "Hrithik Dhakrey",
-    username: "iamdhakrey",
-    title: "Full Stack Developer & Open Source Enthusiast",
-    description: "Passionate developer creating awesome solutions with Rust, TypeScript, and Go",
-    bio: "I'm a passionate developer who loves creating innovative solutions and learning new technologies. Always excited to work on interesting projects and collaborate with fellow developers!",
+    name: "Ephraim Yabom",
+    username: "ephraimyabom",
+    title: "User Experience Designer and Software Developer",
+    description: "Passionate designer and developer creating awesome solutions with Rust, Python, JavaScript, C and C++",
+    bio: "I am Papua New Guinean native, born and raised. I currently am doing my degree in IT, majoring in User Experience",
     image: "/H.svg",
     website: "https://iamdhakrey.dev",
-    location: "Delhi, India",
-    email: "your.email@example.com",
+    location: "Port Moresby, Papua New Guinea",
+    email: "ephiyabom23@gmail.com",
     currentFocus: [
-      "Building modern web applications with Rust and TypeScript",
+      "Building interactive web applications using the Django framework as well as Javascript",
       "Developing desktop applications with Tauri",
-      "Creating robust APIs with Go and Echo framework",
-      "Contributing to open source projects"
+      "Developing games in Godot, Unity C and C++",
+      "Programming FPGAs"
     ],
-    funFact: "I maintain multiple projects in Rust, Go, and TypeScript! 🚀"
+    funFact: "I started programming in Verilog this year! 🚀"
   },
 
   socialLinks: {
